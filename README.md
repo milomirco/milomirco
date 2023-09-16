@@ -7,6 +7,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=milomirco&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milomirco&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 ![https://github.com/milomirco](https://github.com/milomirco/milomirco/blob/main/wall_arch_linux.jpg)
+
+## Tecnologías:
+
+[![Arch Linux](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)])
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
