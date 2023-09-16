@@ -10,7 +10,7 @@
 
 ## Tecnologías:
 
-[![Arch Linux]((https://archlinux.org/))])
+[![Arch Linux](https://archlinux.org/)])
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
