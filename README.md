@@ -10,7 +10,7 @@
 
 ## Tecnologías:
 
-[![Arch Linux](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)])
+[![Arch Linux]((https://archlinux.org/))])
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
