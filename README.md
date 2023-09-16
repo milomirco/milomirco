@@ -10,7 +10,8 @@
 
 ## Tecnologías:
 
-[![Arch Linux](https://archlinux.org/)])
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Arch Linux](https://archlinux.org/)]
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
